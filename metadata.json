@@ -1,0 +1,10 @@
+{
+  "name": "RakshaSetu - AI Disaster Response Orchestration",
+  "description": "AI-Assisted Disaster Response Orchestration Platform for Smart India Hackathon 2026 (SIH26206). Multi-incident batching, joint resource optimization, and human authority approval command center.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
